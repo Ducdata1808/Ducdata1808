@@ -3,7 +3,7 @@
 I am a **Sophomore** majoring in **Data Science** at **VNU-HCM University of Science (HCMUS)**. My passion lies in building robust data architectures and turning raw data into actionable insights.
 
 ### 🎯 Career Goals
-I am aspiring to become a **Data Engineer** or **Analytics Engineer**, focusing on scalable data pipelines and efficient data modeling.
+I am aspiring to become a **Data Engineer**, focusing on scalable data pipelines and efficient data modeling.
 
 ---
 
@@ -28,7 +28,3 @@ I am aspiring to become a **Data Engineer** or **Analytics Engineer**, focusing 
 *   💬 Ask me about: **Python, Data Modeling, or why I love HCMUS!**
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ducdata1808&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ducdata1808&layout=compact&theme=radical)
